@@ -95,7 +95,7 @@ This program is distributed under three different licenses:
 2. You can request a special
    [educational license](http://www.aseprite.org/faq/#is-there-an-educational-license)
    in case you are a teacher in an educational institution and want to
-   use Aseprite in your classroom (in-situ).
+   use Aseprite in your classroom (in-situ);
 3. Steam releases are distributed under the terms of the
    [Steam Subscriber Agreement](http://store.steampowered.com/subscriber_agreement/).
 
